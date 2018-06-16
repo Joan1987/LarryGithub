@@ -2,4 +2,6 @@
 
 Esta serie de libros cuentan la historia de  un hacker  unico.
 
-**Pepito Perez**
+
+**Pepito Perez && Perico Palotes**
+
